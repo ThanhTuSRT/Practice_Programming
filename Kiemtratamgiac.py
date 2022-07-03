@@ -1,6 +1,6 @@
-a=int(input("Nhập độ dài cạnh a: "))
-b=int(input("Nhập độ dài cạnh b: "))
-c=int(input("Nhập độ dài cạnh c: "))
+a=float(input("Nhập độ dài cạnh a: "))
+b=float(input("Nhập độ dài cạnh b: "))
+c=float(input("Nhập độ dài cạnh c: "))
 print()
 import math
 cv=a+b+c
