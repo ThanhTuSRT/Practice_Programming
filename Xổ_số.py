@@ -25,8 +25,8 @@ if quay == 0:
     print('Số may mắn là: ',xoso)
     
     if so == xoso:
-        von1=von+cuoc*2
-        print('Xin chúc mừng, bạn đã được cộng',cuoc*2,'VND vào vốn')
+        von1=von+cuoc*80
+        print('Xin chúc mừng, bạn đã được cộng',cuoc*80,'VND vào vốn')
         print('Số tiền hiện tại của bạn là', von1,'VND')
     else:
         von1=von-cuoc
@@ -68,8 +68,8 @@ if choose == 1 and von1 != 0:
             print('Số may mắn là: ',xoso)
                         
             if so == xoso:
-                von1=von1+cuoc*2
-                print('Xin chúc mừng, bạn đã được cộng',cuoc*2,'VND vào vốn')
+                von1=von1+cuoc*80
+                print('Xin chúc mừng, bạn đã được cộng',cuoc*80,'VND vào vốn')
                 print('Số tiền hiện tại của bạn là', von1,'VND')
             else:
                 von1=von1-cuoc
