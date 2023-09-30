@@ -1,2 +1,2 @@
 # Practice_Programming
-Đây là nơi lưu trữ những file đầu tiên khi tôi tập lập trình 😄
+Các file ở đây đều có thể chạy được, nếu cần thì cứ xem nhé;)
